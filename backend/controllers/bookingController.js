@@ -1,4 +1,4 @@
-const Booking = require('../models/bookingModel');
+const Booking = require('../models/booking');
 
 // @desc    Get all bookings for the logged-in user
 // @route   GET /api/bookings
